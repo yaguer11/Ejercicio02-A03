@@ -1,0 +1,11 @@
+{
+  "name": "eje2",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 - Aplicando lo aprendido 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "German Muñoz",
+  "license": "ISC"
+}
